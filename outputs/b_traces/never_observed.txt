@@ -1,0 +1,5 @@
+not_slippery_fixed: no hole episode in 150 runs
+not_slippery_fixed: no time_limit episode in 150 runs
+not_slippery_random: no time_limit episode in 150 runs
+slippery_fixed: no time_limit episode in 150 runs
+slippery_random: no time_limit episode in 150 runs

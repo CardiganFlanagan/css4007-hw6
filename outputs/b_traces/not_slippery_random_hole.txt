@@ -1,0 +1,43 @@
+condition=not_slippery_random batch_seed=11 episode_seed=11000 outcome=hole steps=5 total_reward=0.0
+@ marks the agent; the line in brackets is the action just taken.
+
+t=0 state=0
+@FFF
+FHFH
+FFFH
+HFFG
+
+t=1 state=0
+  (Left)
+@FFF
+FHFH
+FFFH
+HFFG
+
+t=2 state=0
+  (Left)
+@FFF
+FHFH
+FFFH
+HFFG
+
+t=3 state=0
+  (Up)
+@FFF
+FHFH
+FFFH
+HFFG
+
+t=4 state=4
+  (Down)
+SFFF
+@HFH
+FFFH
+HFFG
+
+t=5 state=5
+  (Right)
+SFFF
+F@FH
+FFFH
+HFFG

@@ -1,0 +1,601 @@
+condition,is_slippery,policy,batch_seed,episode_seed,steps,total_reward,outcome,states,actions
+not_slippery_random,False,random,11,11000,5,0.0,hole,0 0 0 0 4 5,left left up down right
+not_slippery_random,False,random,11,11001,4,0.0,hole,0 1 2 1 5,right right left down
+not_slippery_random,False,random,11,11002,13,0.0,hole,0 0 4 0 1 0 1 0 0 0 0 1 1 5,left down up right left right left up up up right up down
+not_slippery_random,False,random,11,11003,3,0.0,hole,0 0 1 5,left right down
+not_slippery_random,False,random,11,11004,3,0.0,hole,0 1 1 5,right up down
+not_slippery_random,False,random,11,11005,7,0.0,hole,0 0 0 4 0 0 1 5,up left down up left right down
+not_slippery_random,False,random,11,11006,11,0.0,hole,0 1 1 1 1 2 2 2 1 0 4 5,right up up up right up up left left down right
+not_slippery_random,False,random,11,11007,16,0.0,hole,0 0 4 0 4 0 1 2 1 2 2 2 2 2 1 1 5,up down up down up right right left right up up up up left up down
+not_slippery_random,False,random,11,11008,2,0.0,hole,0 1 5,right down
+not_slippery_random,False,random,11,11009,10,0.0,hole,0 0 0 0 0 4 8 8 8 4 5,left left up up down down left left up right
+not_slippery_random,False,random,11,11010,18,0.0,hole,0 0 0 1 1 1 0 1 0 0 0 4 8 9 13 13 9 10 11,left left right up up left right left left left down down right down down up right right
+not_slippery_random,False,random,11,11011,2,0.0,hole,0 1 5,right down
+not_slippery_random,False,random,11,11012,33,0.0,hole,0 0 0 4 4 4 0 0 4 0 1 1 0 4 4 4 0 0 1 0 4 0 4 8 8 4 4 8 8 8 4 4 8 12,up left down left left up left down up right up left down left left up left right left down up down down left up left down left left up left down down
+not_slippery_random,False,random,11,11013,14,0.0,hole,0 0 1 2 2 1 1 0 0 1 1 1 2 1 5,left right right up left up left left right up up right left down
+not_slippery_random,False,random,11,11014,11,0.0,hole,0 0 1 0 1 0 1 0 4 8 4 5,up right left right left right left down down up right
+not_slippery_random,False,random,11,11015,2,0.0,hole,0 1 5,right down
+not_slippery_random,False,random,11,11016,8,0.0,hole,0 4 0 0 0 0 4 8 12,down up up left left down down down
+not_slippery_random,False,random,11,11017,6,0.0,hole,0 4 0 4 0 1 5,down up down up right down
+not_slippery_random,False,random,11,11018,12,0.0,hole,0 0 4 0 4 0 1 1 0 0 0 1 5,up down up down up right up left left left right down
+not_slippery_random,False,random,11,11019,6,0.0,hole,0 0 0 0 0 4 5,up left left up down right
+not_slippery_random,False,random,11,11020,2,0.0,hole,0 4 5,down right
+not_slippery_random,False,random,11,11021,9,0.0,hole,0 0 1 1 2 2 2 3 3 7,left right up right up up right up down
+not_slippery_random,False,random,11,11022,7,0.0,hole,0 0 1 2 1 0 1 5,left right right left left right down
+not_slippery_random,False,random,11,11023,11,0.0,hole,0 4 0 1 1 0 0 1 0 0 4 5,down up right up left up right left left down right
+not_slippery_random,False,random,11,11024,14,0.0,hole,0 0 1 1 0 0 0 0 0 4 0 0 1 1 5,left right up left left up left up down up left right up down
+not_slippery_random,False,random,11,11025,6,0.0,hole,0 1 0 0 0 4 5,right left left left down right
+not_slippery_random,False,random,11,11026,4,0.0,hole,0 0 0 1 5,left left right down
+not_slippery_random,False,random,11,11027,8,0.0,hole,0 0 0 0 1 0 0 1 5,left left left right left up right down
+not_slippery_random,False,random,11,11028,7,0.0,hole,0 1 0 4 8 9 8 12,right left down down right left down
+not_slippery_random,False,random,11,11029,20,0.0,hole,0 0 0 0 4 0 4 4 0 1 0 0 0 0 1 2 2 6 2 6 7,left left left down up down left up right left left left up right right up down up down right
+not_slippery_random,False,random,11,11030,8,0.0,hole,0 0 0 1 1 1 2 6 5,up left right up up right down left
+not_slippery_random,False,random,11,11031,14,0.0,hole,0 0 4 0 0 4 0 1 2 3 3 3 3 3 7,up down up left down up right right right up up up right down
+not_slippery_random,False,random,11,11032,9,0.0,hole,0 0 0 4 4 4 4 4 8 12,left up down left left left left down down
+not_slippery_random,False,random,11,11033,2,0.0,hole,0 4 5,down right
+not_slippery_random,False,random,11,11034,2,0.0,hole,0 4 5,down right
+not_slippery_random,False,random,11,11035,11,0.0,hole,0 1 2 3 2 1 1 2 6 10 6 7,right right right left left up right down down up right
+not_slippery_random,False,random,11,11036,5,0.0,hole,0 4 8 8 4 5,down down left up right
+not_slippery_random,False,random,11,11037,2,0.0,hole,0 4 5,down right
+not_slippery_random,False,random,11,11038,6,0.0,hole,0 1 2 3 3 3 7,right right right up right down
+not_slippery_random,False,random,11,11039,6,0.0,hole,0 4 8 4 4 4 5,down down up left left right
+not_slippery_random,False,random,11,11040,3,0.0,hole,0 4 4 5,down left right
+not_slippery_random,False,random,11,11041,5,0.0,hole,0 1 0 4 4 5,right left down left right
+not_slippery_random,False,random,11,11042,5,0.0,hole,0 0 0 0 4 5,up up up down right
+not_slippery_random,False,random,11,11043,6,0.0,hole,0 1 1 2 2 1 5,right up right up left down
+not_slippery_random,False,random,11,11044,2,0.0,hole,0 4 5,down right
+not_slippery_random,False,random,11,11045,6,0.0,hole,0 0 4 8 9 8 12,up down down right left down
+not_slippery_random,False,random,11,11046,14,0.0,hole,0 0 0 1 1 0 1 2 3 3 3 2 2 1 5,left left right up left right right right right right left up left down
+not_slippery_random,False,random,11,11047,3,0.0,hole,0 0 1 5,up right down
+not_slippery_random,False,random,11,11048,3,0.0,hole,0 0 4 5,left down right
+not_slippery_random,False,random,11,11049,11,0.0,hole,0 0 0 0 1 2 2 6 10 14 10 11,up up left right right up down down down up right
+not_slippery_random,False,random,22,22000,3,0.0,hole,0 0 4 5,up down right
+not_slippery_random,False,random,22,22001,5,0.0,hole,0 0 0 0 4 5,left up left down right
+not_slippery_random,False,random,22,22002,12,0.0,hole,0 0 4 4 0 4 0 4 0 0 0 4 5,left down left up down up down up left left down right
+not_slippery_random,False,random,22,22003,5,0.0,hole,0 0 1 2 1 5,left right right left down
+not_slippery_random,False,random,22,22004,6,0.0,hole,0 4 0 4 8 8 12,down up down down left down
+not_slippery_random,False,random,22,22005,13,0.0,hole,0 0 4 8 9 8 9 13 14 10 9 13 13 12,up down down right left right down right up left down down left
+not_slippery_random,False,random,22,22006,4,0.0,hole,0 4 4 4 5,down left left right
+not_slippery_random,False,random,22,22007,2,0.0,hole,0 4 5,down right
+not_slippery_random,False,random,22,22008,6,0.0,hole,0 0 4 0 0 4 5,up down up up down right
+not_slippery_random,False,random,22,22009,3,0.0,hole,0 1 1 5,right up down
+not_slippery_random,False,random,22,22010,6,0.0,hole,0 1 1 2 2 6 7,right up right up down right
+not_slippery_random,False,random,22,22011,3,0.0,hole,0 0 4 5,left down right
+not_slippery_random,False,random,22,22012,4,0.0,hole,0 0 0 4 5,left up down right
+not_slippery_random,False,random,22,22013,10,0.0,hole,0 0 4 8 8 8 8 8 9 10 11,up down down left left left left right right right
+not_slippery_random,False,random,22,22014,14,0.0,hole,0 1 0 4 0 1 2 1 2 3 3 2 3 3 7,right left down up right right left right right up left right up down
+not_slippery_random,False,random,22,22015,4,0.0,hole,0 0 0 4 5,left left down right
+not_slippery_random,False,random,22,22016,3,0.0,hole,0 0 1 5,up right down
+not_slippery_random,False,random,22,22017,5,0.0,hole,0 0 4 0 1 5,up down up right down
+not_slippery_random,False,random,22,22018,7,0.0,hole,0 0 0 0 0 0 4 5,up up left up left down right
+not_slippery_random,False,random,22,22019,8,0.0,hole,0 1 1 2 6 10 6 10 11,right up right down down up down right
+not_slippery_random,False,random,22,22020,7,0.0,hole,0 0 0 0 0 4 4 5,left left left left down left right
+not_slippery_random,False,random,22,22021,6,0.0,hole,0 0 1 2 2 3 7,up right right up right down
+not_slippery_random,False,random,22,22022,15,0.0,hole,0 0 1 0 4 8 8 4 0 0 4 0 1 2 3 7,left right left down down left up up left down up right right right down
+not_slippery_random,False,random,22,22023,9,0.0,hole,0 0 0 0 0 0 4 8 4 5,up up up left up down down up right
+not_slippery_random,False,random,22,22024,4,0.0,hole,0 0 4 8 12,up down down down
+not_slippery_random,False,random,22,22025,20,0.0,hole,0 1 1 1 2 3 3 2 1 1 1 0 1 2 6 10 6 2 1 1 5,right up up right right right left left up up left right right down down up up left up down
+not_slippery_random,False,random,22,22026,21,0.0,hole,0 0 0 4 8 4 0 0 0 4 0 0 1 0 4 4 0 1 0 4 4 5,left left down down up up up left down up left right left down left up right left down left right
+not_slippery_random,False,random,22,22027,13,0.0,hole,0 1 2 6 2 6 10 6 2 3 2 3 3 7,right right down up down down up up right left right right down
+not_slippery_random,False,random,22,22028,5,0.0,hole,0 0 0 4 4 5,left left down left right
+not_slippery_random,False,random,22,22029,7,0.0,hole,0 0 0 1 1 1 1 5,up up right up up up down
+not_slippery_random,False,random,22,22030,2,0.0,hole,0 1 5,right down
+not_slippery_random,False,random,22,22031,4,0.0,hole,0 0 4 4 5,up down left right
+not_slippery_random,False,random,22,22032,12,0.0,hole,0 4 4 0 0 1 2 3 2 3 3 3 7,down left up up right right right left right right up down
+not_slippery_random,False,random,22,22033,2,0.0,hole,0 1 5,right down
+not_slippery_random,False,random,22,22034,3,0.0,hole,0 4 4 5,down left right
+not_slippery_random,False,random,22,22035,6,0.0,hole,0 1 1 2 2 1 5,right up right up left down
+not_slippery_random,False,random,22,22036,5,0.0,hole,0 0 1 2 6 5,left right right down left
+not_slippery_random,False,random,22,22037,6,0.0,hole,0 4 8 8 9 13 12,down down left right down left
+not_slippery_random,False,random,22,22038,5,0.0,hole,0 4 8 9 13 12,down down right down left
+not_slippery_random,False,random,22,22039,9,0.0,hole,0 0 0 0 1 0 0 0 1 5,left up up right left left up right down
+not_slippery_random,False,random,22,22040,3,0.0,hole,0 0 4 5,up down right
+not_slippery_random,False,random,22,22041,10,0.0,hole,0 0 4 0 0 0 0 0 0 1 5,left down up up up up left up right down
+not_slippery_random,False,random,22,22042,11,1.0,goal,0 0 0 4 8 8 9 10 14 13 14 15,left left down down left right right down left right right
+not_slippery_random,False,random,22,22043,3,0.0,hole,0 1 1 5,right up down
+not_slippery_random,False,random,22,22044,2,0.0,hole,0 4 5,down right
+not_slippery_random,False,random,22,22045,7,0.0,hole,0 0 0 0 0 0 4 5,left left up up left down right
+not_slippery_random,False,random,22,22046,13,0.0,hole,0 0 0 0 0 0 1 1 1 0 0 1 1 5,up up left left left right up up left left right up down
+not_slippery_random,False,random,22,22047,8,0.0,hole,0 1 2 1 0 0 1 1 5,right right left left left right up down
+not_slippery_random,False,random,22,22048,10,0.0,hole,0 0 0 4 0 0 0 4 4 4 5,left up down up left left down left left right
+not_slippery_random,False,random,22,22049,7,0.0,hole,0 0 4 4 8 8 4 5,up down left down left up right
+not_slippery_random,False,random,33,33000,5,0.0,hole,0 0 4 8 9 5,up down down right up
+not_slippery_random,False,random,33,33001,12,0.0,hole,0 0 4 8 9 10 14 14 10 6 2 3 7,up down down right right down down up up up right down
+not_slippery_random,False,random,33,33002,5,0.0,hole,0 0 1 2 6 5,left right right down left
+not_slippery_random,False,random,33,33003,19,0.0,hole,0 1 0 0 0 0 4 4 4 0 0 0 0 1 0 0 1 2 6 5,right left left left up down left left up up left up right left left right right down left
+not_slippery_random,False,random,33,33004,8,0.0,hole,0 4 0 0 1 1 2 6 5,down up left right up right down left
+not_slippery_random,False,random,33,33005,3,0.0,hole,0 0 1 5,up right down
+not_slippery_random,False,random,33,33006,5,0.0,hole,0 0 0 4 8 12,left left down down down
+not_slippery_random,False,random,33,33007,15,0.0,hole,0 0 0 0 4 0 1 1 2 6 10 14 13 14 10 11,left left up down up right up right down down down left right up right
+not_slippery_random,False,random,33,33008,3,0.0,hole,0 0 1 5,up right down
+not_slippery_random,False,random,33,33009,17,0.0,hole,0 0 4 0 0 1 2 3 2 2 1 0 0 0 1 2 6 7,up down up left right right right left up left left left up right right down right
+not_slippery_random,False,random,33,33010,3,0.0,hole,0 0 1 5,left right down
+not_slippery_random,False,random,33,33011,4,0.0,hole,0 1 2 1 5,right right left down
+not_slippery_random,False,random,33,33012,3,0.0,hole,0 0 1 5,left right down
+not_slippery_random,False,random,33,33013,7,0.0,hole,0 0 0 1 2 6 10 11,up left right right down down right
+not_slippery_random,False,random,33,33014,10,1.0,goal,0 0 0 4 4 4 8 9 10 14 15,left up down left left down right right down right
+not_slippery_random,False,random,33,33015,6,0.0,hole,0 0 0 1 2 6 7,up up right right down right
+not_slippery_random,False,random,33,33016,7,0.0,hole,0 1 1 1 1 2 1 5,right up up up right left down
+not_slippery_random,False,random,33,33017,3,0.0,hole,0 0 4 5,up down right
+not_slippery_random,False,random,33,33018,3,0.0,hole,0 0 4 5,up down right
+not_slippery_random,False,random,33,33019,4,0.0,hole,0 1 2 6 5,right right down left
+not_slippery_random,False,random,33,33020,5,0.0,hole,0 4 8 4 4 5,down down up left right
+not_slippery_random,False,random,33,33021,10,0.0,hole,0 1 2 1 0 1 0 0 4 4 5,right right left left right left left down left right
+not_slippery_random,False,random,33,33022,8,1.0,goal,0 0 4 8 9 13 14 14 15,left down down right down right down right
+not_slippery_random,False,random,33,33023,4,0.0,hole,0 1 0 1 5,right left right down
+not_slippery_random,False,random,33,33024,3,0.0,hole,0 0 1 5,left right down
+not_slippery_random,False,random,33,33025,4,0.0,hole,0 1 1 1 5,right up up down
+not_slippery_random,False,random,33,33026,4,0.0,hole,0 0 0 4 5,left up down right
+not_slippery_random,False,random,33,33027,3,0.0,hole,0 0 1 5,left right down
+not_slippery_random,False,random,33,33028,5,0.0,hole,0 0 0 0 4 5,up left left down right
+not_slippery_random,False,random,33,33029,5,0.0,hole,0 4 0 0 1 5,down up up right down
+not_slippery_random,False,random,33,33030,7,0.0,hole,0 0 0 0 1 2 3 7,left left up right right right down
+not_slippery_random,False,random,33,33031,14,0.0,hole,0 0 0 0 0 0 0 1 1 2 1 0 0 4 5,up left up left left up right up right left left left down right
+not_slippery_random,False,random,33,33032,6,0.0,hole,0 4 4 8 9 8 12,down left down right left down
+not_slippery_random,False,random,33,33033,6,0.0,hole,0 0 1 1 2 3 7,up right up right right down
+not_slippery_random,False,random,33,33034,13,0.0,hole,0 4 8 9 8 4 0 4 8 9 8 4 8 12,down down right left up up down down right left up down down
+not_slippery_random,False,random,33,33035,5,0.0,hole,0 1 2 2 1 5,right right up left down
+not_slippery_random,False,random,33,33036,4,0.0,hole,0 0 0 4 5,up up down right
+not_slippery_random,False,random,33,33037,10,0.0,hole,0 1 1 0 4 8 8 8 8 4 5,right up left down down left left left up right
+not_slippery_random,False,random,33,33038,2,0.0,hole,0 4 5,down right
+not_slippery_random,False,random,33,33039,3,0.0,hole,0 4 8 12,down down down
+not_slippery_random,False,random,33,33040,10,0.0,hole,0 0 0 0 0 0 0 0 0 4 5,up up left left up left up left down right
+not_slippery_random,False,random,33,33041,4,0.0,hole,0 0 0 1 5,left left right down
+not_slippery_random,False,random,33,33042,2,0.0,hole,0 1 5,right down
+not_slippery_random,False,random,33,33043,6,0.0,hole,0 0 0 0 4 8 12,up left up down down down
+not_slippery_random,False,random,33,33044,14,0.0,hole,0 1 0 0 0 1 2 2 1 2 2 6 10 9 5,right left left up right right up left right up down down left up
+not_slippery_random,False,random,33,33045,6,0.0,hole,0 4 4 8 8 4 5,down left down left up right
+not_slippery_random,False,random,33,33046,5,0.0,hole,0 0 0 0 1 5,left up left right down
+not_slippery_random,False,random,33,33047,2,0.0,hole,0 1 5,right down
+not_slippery_random,False,random,33,33048,3,0.0,hole,0 0 4 5,up down right
+not_slippery_random,False,random,33,33049,18,0.0,hole,0 1 0 4 0 0 0 0 0 0 1 0 0 1 2 3 2 6 7,right left down up left left left left up right left left right right right left down right
+not_slippery_fixed,False,fixed,11,11000,6,1.0,goal,0 4 8 9 13 14 15,down down right down right right
+not_slippery_fixed,False,fixed,11,11001,6,1.0,goal,0 4 8 9 13 14 15,down down right down right right
+not_slippery_fixed,False,fixed,11,11002,6,1.0,goal,0 4 8 9 13 14 15,down down right down right right
+not_slippery_fixed,False,fixed,11,11003,6,1.0,goal,0 4 8 9 13 14 15,down down right down right right
+not_slippery_fixed,False,fixed,11,11004,6,1.0,goal,0 4 8 9 13 14 15,down down right down right right
+not_slippery_fixed,False,fixed,11,11005,6,1.0,goal,0 4 8 9 13 14 15,down down right down right right
+not_slippery_fixed,False,fixed,11,11006,6,1.0,goal,0 4 8 9 13 14 15,down down right down right right
+not_slippery_fixed,False,fixed,11,11007,6,1.0,goal,0 4 8 9 13 14 15,down down right down right right
+not_slippery_fixed,False,fixed,11,11008,6,1.0,goal,0 4 8 9 13 14 15,down down right down right right
+not_slippery_fixed,False,fixed,11,11009,6,1.0,goal,0 4 8 9 13 14 15,down down right down right right
+not_slippery_fixed,False,fixed,11,11010,6,1.0,goal,0 4 8 9 13 14 15,down down right down right right
+not_slippery_fixed,False,fixed,11,11011,6,1.0,goal,0 4 8 9 13 14 15,down down right down right right
+not_slippery_fixed,False,fixed,11,11012,6,1.0,goal,0 4 8 9 13 14 15,down down right down right right
+not_slippery_fixed,False,fixed,11,11013,6,1.0,goal,0 4 8 9 13 14 15,down down right down right right
+not_slippery_fixed,False,fixed,11,11014,6,1.0,goal,0 4 8 9 13 14 15,down down right down right right
+not_slippery_fixed,False,fixed,11,11015,6,1.0,goal,0 4 8 9 13 14 15,down down right down right right
+not_slippery_fixed,False,fixed,11,11016,6,1.0,goal,0 4 8 9 13 14 15,down down right down right right
+not_slippery_fixed,False,fixed,11,11017,6,1.0,goal,0 4 8 9 13 14 15,down down right down right right
+not_slippery_fixed,False,fixed,11,11018,6,1.0,goal,0 4 8 9 13 14 15,down down right down right right
+not_slippery_fixed,False,fixed,11,11019,6,1.0,goal,0 4 8 9 13 14 15,down down right down right right
+not_slippery_fixed,False,fixed,11,11020,6,1.0,goal,0 4 8 9 13 14 15,down down right down right right
+not_slippery_fixed,False,fixed,11,11021,6,1.0,goal,0 4 8 9 13 14 15,down down right down right right
+not_slippery_fixed,False,fixed,11,11022,6,1.0,goal,0 4 8 9 13 14 15,down down right down right right
+not_slippery_fixed,False,fixed,11,11023,6,1.0,goal,0 4 8 9 13 14 15,down down right down right right
+not_slippery_fixed,False,fixed,11,11024,6,1.0,goal,0 4 8 9 13 14 15,down down right down right right
+not_slippery_fixed,False,fixed,11,11025,6,1.0,goal,0 4 8 9 13 14 15,down down right down right right
+not_slippery_fixed,False,fixed,11,11026,6,1.0,goal,0 4 8 9 13 14 15,down down right down right right
+not_slippery_fixed,False,fixed,11,11027,6,1.0,goal,0 4 8 9 13 14 15,down down right down right right
+not_slippery_fixed,False,fixed,11,11028,6,1.0,goal,0 4 8 9 13 14 15,down down right down right right
+not_slippery_fixed,False,fixed,11,11029,6,1.0,goal,0 4 8 9 13 14 15,down down right down right right
+not_slippery_fixed,False,fixed,11,11030,6,1.0,goal,0 4 8 9 13 14 15,down down right down right right
+not_slippery_fixed,False,fixed,11,11031,6,1.0,goal,0 4 8 9 13 14 15,down down right down right right
+not_slippery_fixed,False,fixed,11,11032,6,1.0,goal,0 4 8 9 13 14 15,down down right down right right
+not_slippery_fixed,False,fixed,11,11033,6,1.0,goal,0 4 8 9 13 14 15,down down right down right right
+not_slippery_fixed,False,fixed,11,11034,6,1.0,goal,0 4 8 9 13 14 15,down down right down right right
+not_slippery_fixed,False,fixed,11,11035,6,1.0,goal,0 4 8 9 13 14 15,down down right down right right
+not_slippery_fixed,False,fixed,11,11036,6,1.0,goal,0 4 8 9 13 14 15,down down right down right right
+not_slippery_fixed,False,fixed,11,11037,6,1.0,goal,0 4 8 9 13 14 15,down down right down right right
+not_slippery_fixed,False,fixed,11,11038,6,1.0,goal,0 4 8 9 13 14 15,down down right down right right
+not_slippery_fixed,False,fixed,11,11039,6,1.0,goal,0 4 8 9 13 14 15,down down right down right right
+not_slippery_fixed,False,fixed,11,11040,6,1.0,goal,0 4 8 9 13 14 15,down down right down right right
+not_slippery_fixed,False,fixed,11,11041,6,1.0,goal,0 4 8 9 13 14 15,down down right down right right
+not_slippery_fixed,False,fixed,11,11042,6,1.0,goal,0 4 8 9 13 14 15,down down right down right right
+not_slippery_fixed,False,fixed,11,11043,6,1.0,goal,0 4 8 9 13 14 15,down down right down right right
+not_slippery_fixed,False,fixed,11,11044,6,1.0,goal,0 4 8 9 13 14 15,down down right down right right
+not_slippery_fixed,False,fixed,11,11045,6,1.0,goal,0 4 8 9 13 14 15,down down right down right right
+not_slippery_fixed,False,fixed,11,11046,6,1.0,goal,0 4 8 9 13 14 15,down down right down right right
+not_slippery_fixed,False,fixed,11,11047,6,1.0,goal,0 4 8 9 13 14 15,down down right down right right
+not_slippery_fixed,False,fixed,11,11048,6,1.0,goal,0 4 8 9 13 14 15,down down right down right right
+not_slippery_fixed,False,fixed,11,11049,6,1.0,goal,0 4 8 9 13 14 15,down down right down right right
+not_slippery_fixed,False,fixed,22,22000,6,1.0,goal,0 4 8 9 13 14 15,down down right down right right
+not_slippery_fixed,False,fixed,22,22001,6,1.0,goal,0 4 8 9 13 14 15,down down right down right right
+not_slippery_fixed,False,fixed,22,22002,6,1.0,goal,0 4 8 9 13 14 15,down down right down right right
+not_slippery_fixed,False,fixed,22,22003,6,1.0,goal,0 4 8 9 13 14 15,down down right down right right
+not_slippery_fixed,False,fixed,22,22004,6,1.0,goal,0 4 8 9 13 14 15,down down right down right right
+not_slippery_fixed,False,fixed,22,22005,6,1.0,goal,0 4 8 9 13 14 15,down down right down right right
+not_slippery_fixed,False,fixed,22,22006,6,1.0,goal,0 4 8 9 13 14 15,down down right down right right
+not_slippery_fixed,False,fixed,22,22007,6,1.0,goal,0 4 8 9 13 14 15,down down right down right right
+not_slippery_fixed,False,fixed,22,22008,6,1.0,goal,0 4 8 9 13 14 15,down down right down right right
+not_slippery_fixed,False,fixed,22,22009,6,1.0,goal,0 4 8 9 13 14 15,down down right down right right
+not_slippery_fixed,False,fixed,22,22010,6,1.0,goal,0 4 8 9 13 14 15,down down right down right right
+not_slippery_fixed,False,fixed,22,22011,6,1.0,goal,0 4 8 9 13 14 15,down down right down right right
+not_slippery_fixed,False,fixed,22,22012,6,1.0,goal,0 4 8 9 13 14 15,down down right down right right
+not_slippery_fixed,False,fixed,22,22013,6,1.0,goal,0 4 8 9 13 14 15,down down right down right right
+not_slippery_fixed,False,fixed,22,22014,6,1.0,goal,0 4 8 9 13 14 15,down down right down right right
+not_slippery_fixed,False,fixed,22,22015,6,1.0,goal,0 4 8 9 13 14 15,down down right down right right
+not_slippery_fixed,False,fixed,22,22016,6,1.0,goal,0 4 8 9 13 14 15,down down right down right right
+not_slippery_fixed,False,fixed,22,22017,6,1.0,goal,0 4 8 9 13 14 15,down down right down right right
+not_slippery_fixed,False,fixed,22,22018,6,1.0,goal,0 4 8 9 13 14 15,down down right down right right
+not_slippery_fixed,False,fixed,22,22019,6,1.0,goal,0 4 8 9 13 14 15,down down right down right right
+not_slippery_fixed,False,fixed,22,22020,6,1.0,goal,0 4 8 9 13 14 15,down down right down right right
+not_slippery_fixed,False,fixed,22,22021,6,1.0,goal,0 4 8 9 13 14 15,down down right down right right
+not_slippery_fixed,False,fixed,22,22022,6,1.0,goal,0 4 8 9 13 14 15,down down right down right right
+not_slippery_fixed,False,fixed,22,22023,6,1.0,goal,0 4 8 9 13 14 15,down down right down right right
+not_slippery_fixed,False,fixed,22,22024,6,1.0,goal,0 4 8 9 13 14 15,down down right down right right
+not_slippery_fixed,False,fixed,22,22025,6,1.0,goal,0 4 8 9 13 14 15,down down right down right right
+not_slippery_fixed,False,fixed,22,22026,6,1.0,goal,0 4 8 9 13 14 15,down down right down right right
+not_slippery_fixed,False,fixed,22,22027,6,1.0,goal,0 4 8 9 13 14 15,down down right down right right
+not_slippery_fixed,False,fixed,22,22028,6,1.0,goal,0 4 8 9 13 14 15,down down right down right right
+not_slippery_fixed,False,fixed,22,22029,6,1.0,goal,0 4 8 9 13 14 15,down down right down right right
+not_slippery_fixed,False,fixed,22,22030,6,1.0,goal,0 4 8 9 13 14 15,down down right down right right
+not_slippery_fixed,False,fixed,22,22031,6,1.0,goal,0 4 8 9 13 14 15,down down right down right right
+not_slippery_fixed,False,fixed,22,22032,6,1.0,goal,0 4 8 9 13 14 15,down down right down right right
+not_slippery_fixed,False,fixed,22,22033,6,1.0,goal,0 4 8 9 13 14 15,down down right down right right
+not_slippery_fixed,False,fixed,22,22034,6,1.0,goal,0 4 8 9 13 14 15,down down right down right right
+not_slippery_fixed,False,fixed,22,22035,6,1.0,goal,0 4 8 9 13 14 15,down down right down right right
+not_slippery_fixed,False,fixed,22,22036,6,1.0,goal,0 4 8 9 13 14 15,down down right down right right
+not_slippery_fixed,False,fixed,22,22037,6,1.0,goal,0 4 8 9 13 14 15,down down right down right right
+not_slippery_fixed,False,fixed,22,22038,6,1.0,goal,0 4 8 9 13 14 15,down down right down right right
+not_slippery_fixed,False,fixed,22,22039,6,1.0,goal,0 4 8 9 13 14 15,down down right down right right
+not_slippery_fixed,False,fixed,22,22040,6,1.0,goal,0 4 8 9 13 14 15,down down right down right right
+not_slippery_fixed,False,fixed,22,22041,6,1.0,goal,0 4 8 9 13 14 15,down down right down right right
+not_slippery_fixed,False,fixed,22,22042,6,1.0,goal,0 4 8 9 13 14 15,down down right down right right
+not_slippery_fixed,False,fixed,22,22043,6,1.0,goal,0 4 8 9 13 14 15,down down right down right right
+not_slippery_fixed,False,fixed,22,22044,6,1.0,goal,0 4 8 9 13 14 15,down down right down right right
+not_slippery_fixed,False,fixed,22,22045,6,1.0,goal,0 4 8 9 13 14 15,down down right down right right
+not_slippery_fixed,False,fixed,22,22046,6,1.0,goal,0 4 8 9 13 14 15,down down right down right right
+not_slippery_fixed,False,fixed,22,22047,6,1.0,goal,0 4 8 9 13 14 15,down down right down right right
+not_slippery_fixed,False,fixed,22,22048,6,1.0,goal,0 4 8 9 13 14 15,down down right down right right
+not_slippery_fixed,False,fixed,22,22049,6,1.0,goal,0 4 8 9 13 14 15,down down right down right right
+not_slippery_fixed,False,fixed,33,33000,6,1.0,goal,0 4 8 9 13 14 15,down down right down right right
+not_slippery_fixed,False,fixed,33,33001,6,1.0,goal,0 4 8 9 13 14 15,down down right down right right
+not_slippery_fixed,False,fixed,33,33002,6,1.0,goal,0 4 8 9 13 14 15,down down right down right right
+not_slippery_fixed,False,fixed,33,33003,6,1.0,goal,0 4 8 9 13 14 15,down down right down right right
+not_slippery_fixed,False,fixed,33,33004,6,1.0,goal,0 4 8 9 13 14 15,down down right down right right
+not_slippery_fixed,False,fixed,33,33005,6,1.0,goal,0 4 8 9 13 14 15,down down right down right right
+not_slippery_fixed,False,fixed,33,33006,6,1.0,goal,0 4 8 9 13 14 15,down down right down right right
+not_slippery_fixed,False,fixed,33,33007,6,1.0,goal,0 4 8 9 13 14 15,down down right down right right
+not_slippery_fixed,False,fixed,33,33008,6,1.0,goal,0 4 8 9 13 14 15,down down right down right right
+not_slippery_fixed,False,fixed,33,33009,6,1.0,goal,0 4 8 9 13 14 15,down down right down right right
+not_slippery_fixed,False,fixed,33,33010,6,1.0,goal,0 4 8 9 13 14 15,down down right down right right
+not_slippery_fixed,False,fixed,33,33011,6,1.0,goal,0 4 8 9 13 14 15,down down right down right right
+not_slippery_fixed,False,fixed,33,33012,6,1.0,goal,0 4 8 9 13 14 15,down down right down right right
+not_slippery_fixed,False,fixed,33,33013,6,1.0,goal,0 4 8 9 13 14 15,down down right down right right
+not_slippery_fixed,False,fixed,33,33014,6,1.0,goal,0 4 8 9 13 14 15,down down right down right right
+not_slippery_fixed,False,fixed,33,33015,6,1.0,goal,0 4 8 9 13 14 15,down down right down right right
+not_slippery_fixed,False,fixed,33,33016,6,1.0,goal,0 4 8 9 13 14 15,down down right down right right
+not_slippery_fixed,False,fixed,33,33017,6,1.0,goal,0 4 8 9 13 14 15,down down right down right right
+not_slippery_fixed,False,fixed,33,33018,6,1.0,goal,0 4 8 9 13 14 15,down down right down right right
+not_slippery_fixed,False,fixed,33,33019,6,1.0,goal,0 4 8 9 13 14 15,down down right down right right
+not_slippery_fixed,False,fixed,33,33020,6,1.0,goal,0 4 8 9 13 14 15,down down right down right right
+not_slippery_fixed,False,fixed,33,33021,6,1.0,goal,0 4 8 9 13 14 15,down down right down right right
+not_slippery_fixed,False,fixed,33,33022,6,1.0,goal,0 4 8 9 13 14 15,down down right down right right
+not_slippery_fixed,False,fixed,33,33023,6,1.0,goal,0 4 8 9 13 14 15,down down right down right right
+not_slippery_fixed,False,fixed,33,33024,6,1.0,goal,0 4 8 9 13 14 15,down down right down right right
+not_slippery_fixed,False,fixed,33,33025,6,1.0,goal,0 4 8 9 13 14 15,down down right down right right
+not_slippery_fixed,False,fixed,33,33026,6,1.0,goal,0 4 8 9 13 14 15,down down right down right right
+not_slippery_fixed,False,fixed,33,33027,6,1.0,goal,0 4 8 9 13 14 15,down down right down right right
+not_slippery_fixed,False,fixed,33,33028,6,1.0,goal,0 4 8 9 13 14 15,down down right down right right
+not_slippery_fixed,False,fixed,33,33029,6,1.0,goal,0 4 8 9 13 14 15,down down right down right right
+not_slippery_fixed,False,fixed,33,33030,6,1.0,goal,0 4 8 9 13 14 15,down down right down right right
+not_slippery_fixed,False,fixed,33,33031,6,1.0,goal,0 4 8 9 13 14 15,down down right down right right
+not_slippery_fixed,False,fixed,33,33032,6,1.0,goal,0 4 8 9 13 14 15,down down right down right right
+not_slippery_fixed,False,fixed,33,33033,6,1.0,goal,0 4 8 9 13 14 15,down down right down right right
+not_slippery_fixed,False,fixed,33,33034,6,1.0,goal,0 4 8 9 13 14 15,down down right down right right
+not_slippery_fixed,False,fixed,33,33035,6,1.0,goal,0 4 8 9 13 14 15,down down right down right right
+not_slippery_fixed,False,fixed,33,33036,6,1.0,goal,0 4 8 9 13 14 15,down down right down right right
+not_slippery_fixed,False,fixed,33,33037,6,1.0,goal,0 4 8 9 13 14 15,down down right down right right
+not_slippery_fixed,False,fixed,33,33038,6,1.0,goal,0 4 8 9 13 14 15,down down right down right right
+not_slippery_fixed,False,fixed,33,33039,6,1.0,goal,0 4 8 9 13 14 15,down down right down right right
+not_slippery_fixed,False,fixed,33,33040,6,1.0,goal,0 4 8 9 13 14 15,down down right down right right
+not_slippery_fixed,False,fixed,33,33041,6,1.0,goal,0 4 8 9 13 14 15,down down right down right right
+not_slippery_fixed,False,fixed,33,33042,6,1.0,goal,0 4 8 9 13 14 15,down down right down right right
+not_slippery_fixed,False,fixed,33,33043,6,1.0,goal,0 4 8 9 13 14 15,down down right down right right
+not_slippery_fixed,False,fixed,33,33044,6,1.0,goal,0 4 8 9 13 14 15,down down right down right right
+not_slippery_fixed,False,fixed,33,33045,6,1.0,goal,0 4 8 9 13 14 15,down down right down right right
+not_slippery_fixed,False,fixed,33,33046,6,1.0,goal,0 4 8 9 13 14 15,down down right down right right
+not_slippery_fixed,False,fixed,33,33047,6,1.0,goal,0 4 8 9 13 14 15,down down right down right right
+not_slippery_fixed,False,fixed,33,33048,6,1.0,goal,0 4 8 9 13 14 15,down down right down right right
+not_slippery_fixed,False,fixed,33,33049,6,1.0,goal,0 4 8 9 13 14 15,down down right down right right
+slippery_random,True,random,11,11000,11,0.0,hole,0 4 0 1 0 1 2 6 10 9 8 12,left left up down right right right left down left down
+slippery_random,True,random,11,11001,7,0.0,hole,0 0 0 0 4 8 9 5,up right left right left up up
+slippery_random,True,random,11,11002,5,0.0,hole,0 1 2 3 3 7,up right up down left
+slippery_random,True,random,11,11003,2,0.0,hole,0 4 5,right down
+slippery_random,True,random,11,11004,4,0.0,hole,0 4 4 4 5,right up down up
+slippery_random,True,random,11,11005,9,0.0,hole,0 0 0 0 4 8 8 9 10 11,left down up left right down right up up
+slippery_random,True,random,11,11006,14,0.0,hole,0 0 4 0 0 0 0 4 8 4 4 0 0 1 5,up right up up left left down right up down up down up right
+slippery_random,True,random,11,11007,18,0.0,hole,0 1 0 4 0 0 0 0 0 0 1 1 0 4 8 8 8 8 12,right left right up up up up left up down right down left left up up down down
+slippery_random,True,random,11,11008,5,0.0,hole,0 0 0 1 1 5,left left up right left
+slippery_random,True,random,11,11009,14,0.0,hole,0 0 1 1 2 6 10 6 2 1 2 1 2 1 5,left right up up left right left left left down down right down down
+slippery_random,True,random,11,11010,5,0.0,hole,0 1 2 2 3 7,up right right right down
+slippery_random,True,random,11,11011,15,0.0,hole,0 0 0 0 4 0 0 0 1 2 3 2 6 10 6 5,up left down left left up left down up right up left down left left
+slippery_random,True,random,11,11012,3,0.0,hole,0 1 1 5,up left right
+slippery_random,True,random,11,11013,3,0.0,hole,0 0 4 5,left down up
+slippery_random,True,random,11,11014,16,0.0,hole,0 4 8 8 9 13 14 13 9 8 4 4 8 4 8 9 5,down down left up left down left left up left down down left right right up
+slippery_random,True,random,11,11015,21,1.0,goal,0 0 0 0 0 0 0 0 4 8 9 8 9 13 14 13 14 14 13 13 14 15,left up left left right up up right left down up right left right left right left down down up right
+slippery_random,True,random,11,11016,3,0.0,hole,0 4 8 12,right down down
+slippery_random,True,random,11,11017,5,0.0,hole,0 0 0 0 4 5,up up left left down
+slippery_random,True,random,11,11018,2,0.0,hole,0 4 5,down down
+slippery_random,True,random,11,11019,15,0.0,hole,0 0 0 1 0 1 2 3 3 3 3 3 3 2 1 5,down up down up right down up down up down up right up left left
+slippery_random,True,random,11,11020,9,0.0,hole,0 0 4 8 4 4 0 0 1 5,left right down up left left up down right
+slippery_random,True,random,11,11021,2,0.0,hole,0 1 5,down right
+slippery_random,True,random,11,11022,20,0.0,hole,0 0 1 0 1 2 1 2 3 2 6 2 6 10 9 13 14 13 9 10 11,left right up right up up right up down left right right left left right down down up right up
+slippery_random,True,random,11,11023,14,0.0,hole,0 0 0 0 4 0 0 1 0 1 2 2 2 3 7,left up right left left down right left right up left left up left
+slippery_random,True,random,11,11024,17,0.0,hole,0 0 0 1 1 2 3 2 6 2 1 0 0 4 4 4 8 12,up down up left right up down right left left left down right left left right down
+slippery_random,True,random,11,11025,7,0.0,hole,0 0 0 4 8 4 4 5,left left left right left up right
+slippery_random,True,random,11,11026,8,0.0,hole,0 1 2 2 1 2 2 6 7,down right left down down right left down
+slippery_random,True,random,11,11027,9,0.0,hole,0 0 0 0 1 0 0 0 1 5,left left left down up down left up right
+slippery_random,True,random,11,11028,15,0.0,hole,0 4 8 4 0 1 1 1 0 1 2 3 3 2 6 5,left left left up right right up down up down right up left right up
+slippery_random,True,random,11,11029,12,0.0,hole,0 0 0 0 0 0 0 0 0 1 0 4 5,up right down left up down up left down up right right
+slippery_random,True,random,11,11030,12,0.0,hole,0 0 0 0 0 0 4 4 4 4 4 8 12,right up up up right down left up down left left left
+slippery_random,True,random,11,11031,5,0.0,hole,0 0 1 2 3 7,left down down down right
+slippery_random,True,random,11,11032,2,0.0,hole,0 4 5,down right
+slippery_random,True,random,11,11033,3,0.0,hole,0 0 1 5,right right right
+slippery_random,True,random,11,11034,9,0.0,hole,0 0 0 0 0 4 8 8 4 5,left left up right down down up right down
+slippery_random,True,random,11,11035,9,0.0,hole,0 4 0 0 0 1 1 2 6 7,down left up right down right right right right
+slippery_random,True,random,11,11036,4,0.0,hole,0 1 2 6 5,up right down down
+slippery_random,True,random,11,11037,8,0.0,hole,0 0 0 0 4 0 1 1 5,down up left left right down left right
+slippery_random,True,random,11,11038,2,0.0,hole,0 1 5,right left
+slippery_random,True,random,11,11039,3,0.0,hole,0 1 1 5,down left right
+slippery_random,True,random,11,11040,11,0.0,hole,0 0 0 0 0 0 0 0 1 2 6 5,up up up down right right up right up left down
+slippery_random,True,random,11,11041,5,0.0,hole,0 0 4 4 4 5,down right up down down
+slippery_random,True,random,11,11042,3,0.0,hole,0 4 8 12,right left down
+slippery_random,True,random,11,11043,3,0.0,hole,0 0 4 5,left left right
+slippery_random,True,random,11,11044,4,0.0,hole,0 0 0 1 5,up left right right
+slippery_random,True,random,11,11045,2,0.0,hole,0 1 5,right right
+slippery_random,True,random,11,11046,7,0.0,hole,0 0 0 0 0 0 1 5,right left up left down up right
+slippery_random,True,random,11,11047,7,0.0,hole,0 0 0 0 4 0 1 5,down left down right up up left
+slippery_random,True,random,11,11048,2,0.0,hole,0 1 5,right right
+slippery_random,True,random,11,11049,8,0.0,hole,0 1 0 0 4 0 0 4 5,up down down down up right left right
+slippery_random,True,random,22,22000,5,0.0,hole,0 1 0 0 4 5,up down right left up
+slippery_random,True,random,22,22001,5,0.0,hole,0 0 4 0 4 5,left down right left down
+slippery_random,True,random,22,22002,3,0.0,hole,0 0 1 5,left up down
+slippery_random,True,random,22,22003,13,0.0,hole,0 0 1 0 0 0 4 8 4 8 9 13 13 12,up down up left left down right left right right left down down
+slippery_random,True,random,22,22004,6,0.0,hole,0 1 2 6 2 6 7,up down down left down up
+slippery_random,True,random,22,22005,5,0.0,hole,0 1 0 0 4 5,down down right left right
+slippery_random,True,random,22,22006,10,0.0,hole,0 0 0 0 0 0 4 8 8 8 12,down right up left down down left down left left
+slippery_random,True,random,22,22007,14,0.0,hole,0 0 4 0 0 0 0 1 0 0 0 1 2 6 7,right down right up down up up down right right up down right up
+slippery_random,True,random,22,22008,14,1.0,goal,0 0 1 0 4 0 0 4 8 9 13 14 13 14 15,right up down right left down right left up down right up down down
+slippery_random,True,random,22,22009,6,0.0,hole,0 0 0 0 0 4 5,left left left left right right
+slippery_random,True,random,22,22010,8,0.0,hole,0 4 0 4 8 8 9 13 12,right right left down up right right left
+slippery_random,True,random,22,22011,18,0.0,hole,0 4 0 0 0 4 0 4 0 0 1 2 2 2 1 2 1 1 5,right right up left right up down left left down right up right down up down up right
+slippery_random,True,random,22,22012,5,0.0,hole,0 0 0 0 4 5,down up up left up
+slippery_random,True,random,22,22013,5,0.0,hole,0 0 0 0 4 5,left down right right up
+slippery_random,True,random,22,22014,7,0.0,hole,0 0 4 4 4 8 9 5,right down down up down right left
+slippery_random,True,random,22,22015,11,0.0,hole,0 0 0 0 1 0 1 1 2 2 1 5,left left left down left right up right right up right
+slippery_random,True,random,22,22016,3,0.0,hole,0 4 8 12,down left right
+slippery_random,True,random,22,22017,4,0.0,hole,0 0 0 1 5,left down down left
+slippery_random,True,random,22,22018,4,0.0,hole,0 0 0 4 5,up up left down
+slippery_random,True,random,22,22019,3,0.0,hole,0 0 1 5,up right right
+slippery_random,True,random,22,22020,2,0.0,hole,0 4 5,right down
+slippery_random,True,random,22,22021,4,0.0,hole,0 1 2 1 5,up up up left
+slippery_random,True,random,22,22022,6,0.0,hole,0 1 0 1 2 6 5,up down down up right up
+slippery_random,True,random,22,22023,4,0.0,hole,0 4 4 8 12,down down down right
+slippery_random,True,random,22,22024,13,0.0,hole,0 0 0 0 4 0 4 0 0 0 4 0 1 5,up up right right right left left up up left right right down
+slippery_random,True,random,22,22025,2,0.0,hole,0 4 5,down up
+slippery_random,True,random,22,22026,5,0.0,hole,0 0 4 0 1 5,up left up down left
+slippery_random,True,random,22,22027,2,0.0,hole,0 4 5,left down
+slippery_random,True,random,22,22028,6,0.0,hole,0 0 1 2 1 1 5,down up up up left down
+slippery_random,True,random,22,22029,8,0.0,hole,0 0 0 0 0 4 4 4 5,up left right left down left up right
+slippery_random,True,random,22,22030,7,0.0,hole,0 0 1 1 1 2 6 7,left down left right right right down
+slippery_random,True,random,22,22031,10,1.0,goal,0 1 0 0 1 1 2 6 10 14 15,up down down up up right left right right down
+slippery_random,True,random,22,22032,14,1.0,goal,0 0 0 4 4 8 8 8 9 8 8 9 13 14 15,left left down left right up up right up up up down right down
+slippery_random,True,random,22,22033,7,0.0,hole,0 0 4 0 4 8 4 5,up down left right down left up
+slippery_random,True,random,22,22034,8,0.0,hole,0 1 2 2 2 2 2 6 7,up right right right left right right up
+slippery_random,True,random,22,22035,2,0.0,hole,0 1 5,down right
+slippery_random,True,random,22,22036,3,0.0,hole,0 0 1 5,down down left
+slippery_random,True,random,22,22037,6,0.0,hole,0 0 0 1 2 3 7,right right up right up left
+slippery_random,True,random,22,22038,5,0.0,hole,0 0 4 0 4 5,down left right right down
+slippery_random,True,random,22,22039,6,0.0,hole,0 0 1 0 0 1 5,left down down left right down
+slippery_random,True,random,22,22040,10,0.0,hole,0 0 0 0 1 2 1 1 0 1 5,left down down right down left left up up right
+slippery_random,True,random,22,22041,25,0.0,hole,0 0 4 4 0 4 0 4 8 8 8 4 0 0 0 0 0 1 0 4 8 9 8 8 4 5,left left up right down up down right left down up up up up left up right down left left down down left right right
+slippery_random,True,random,22,22042,8,0.0,hole,0 4 4 0 0 1 2 6 5,down left right right right up down down
+slippery_random,True,random,22,22043,8,0.0,hole,0 0 0 0 0 0 0 4 5,right left left up up left down right
+slippery_random,True,random,22,22044,14,0.0,hole,0 0 0 0 4 4 8 8 4 0 4 8 9 10 11,up up left left left right up up left left right up down right
+slippery_random,True,random,22,22045,9,0.0,hole,0 0 0 0 0 1 1 0 4 5,right left left left right up down left up
+slippery_random,True,random,22,22046,2,0.0,hole,0 4 5,down up
+slippery_random,True,random,22,22047,31,0.0,hole,0 0 0 0 0 0 0 0 0 0 4 0 0 1 2 1 0 0 0 0 1 0 0 1 2 6 2 3 3 3 3 7,left left down left left right up down left down left up right right left down right right left down left up down up right left up down left up right
+slippery_random,True,random,22,22048,2,0.0,hole,0 4 5,right up
+slippery_random,True,random,22,22049,5,0.0,hole,0 4 0 1 1 5,left right down up left
+slippery_random,True,random,33,33000,3,0.0,hole,0 0 1 5,up down down
+slippery_random,True,random,33,33001,7,0.0,hole,0 4 0 1 0 4 8 12,right up up down down right right
+slippery_random,True,random,33,33002,7,0.0,hole,0 0 1 0 0 1 1 5,down down up up up right down
+slippery_random,True,random,33,33003,17,0.0,hole,0 0 1 1 2 6 10 6 2 2 2 1 1 0 0 0 4 5,left right right down left right left left left up down left left up up left up
+slippery_random,True,random,33,33004,2,0.0,hole,0 1 5,right left
+slippery_random,True,random,33,33005,3,0.0,hole,0 4 8 12,left right right
+slippery_random,True,random,33,33006,5,0.0,hole,0 4 4 8 8 12,down left down up left
+slippery_random,True,random,33,33007,12,0.0,hole,0 4 0 0 0 0 0 1 2 6 2 1 5,right up right down left up right down left left down down
+slippery_random,True,random,33,33008,12,0.0,hole,0 0 0 0 1 0 0 0 0 1 2 1 5,down left left up down up right up right down down down
+slippery_random,True,random,33,33009,20,1.0,goal,0 0 0 0 0 0 1 0 0 4 0 0 1 2 3 2 2 6 10 14 15,left right up right up right down up down up left right right right left up left left left up
+slippery_random,True,random,33,33010,2,0.0,hole,0 4 5,right right
+slippery_random,True,random,33,33011,10,0.0,hole,0 0 0 0 1 0 4 0 0 1 5,down right left right down right right left down left
+slippery_random,True,random,33,33012,8,0.0,hole,0 4 8 9 13 14 14 13 12,right down up left right right down down
+slippery_random,True,random,33,33013,9,0.0,hole,0 0 4 4 4 0 0 4 8 12,right left up down left left down right right
+slippery_random,True,random,33,33014,3,0.0,hole,0 0 4 5,down right up
+slippery_random,True,random,33,33015,5,0.0,hole,0 0 1 2 3 7,up right right down right
+slippery_random,True,random,33,33016,6,0.0,hole,0 0 1 0 1 1 5,right up up up right left
+slippery_random,True,random,33,33017,7,0.0,hole,0 0 0 0 0 0 1 5,down up down right up down right
+slippery_random,True,random,33,33018,6,0.0,hole,0 4 8 8 8 8 12,right right down left down down
+slippery_random,True,random,33,33019,6,0.0,hole,0 0 4 0 0 1 5,up left right right right left
+slippery_random,True,random,33,33020,12,0.0,hole,0 0 0 0 0 1 0 0 0 1 2 3 7,left right left left down left right left down down right down
+slippery_random,True,random,33,33021,6,0.0,hole,0 0 0 4 8 8 12,right down right right left right
+slippery_random,True,random,33,33022,3,0.0,hole,0 1 1 5,down left right
+slippery_random,True,random,33,33023,2,0.0,hole,0 4 5,down right
+slippery_random,True,random,33,33024,4,0.0,hole,0 0 0 1 5,up up down left
+slippery_random,True,random,33,33025,12,0.0,hole,0 1 0 1 0 0 1 0 0 0 0 1 5,up down right left right down up left left down right down
+slippery_random,True,random,33,33026,10,0.0,hole,0 0 0 0 0 0 0 0 0 4 5,up up right down left left up right right right
+slippery_random,True,random,33,33027,14,0.0,hole,0 0 0 0 0 0 0 0 0 1 2 6 2 6 7,down up left up left left up right up right left left left down
+slippery_random,True,random,33,33028,11,0.0,hole,0 1 2 2 1 1 1 2 1 1 1 5,right down left down right left down up right up right
+slippery_random,True,random,33,33029,9,0.0,hole,0 4 4 8 9 13 13 14 13 12,right down down down right left up up down
+slippery_random,True,random,33,33030,2,0.0,hole,0 1 5,down right
+slippery_random,True,random,33,33031,2,0.0,hole,0 4 5,left up
+slippery_random,True,random,33,33032,3,0.0,hole,0 0 4 5,down down right
+slippery_random,True,random,33,33033,8,0.0,hole,0 1 2 1 2 3 3 3 7,right up left down up up down right
+slippery_random,True,random,33,33034,13,0.0,hole,0 4 4 8 8 8 4 0 0 0 1 2 3 7,right up left down down left left left up right down right down
+slippery_random,True,random,33,33035,6,0.0,hole,0 4 4 4 4 8 12,down down up up left left
+slippery_random,True,random,33,33036,2,0.0,hole,0 1 5,up left
+slippery_random,True,random,33,33037,9,0.0,hole,0 1 1 2 3 2 2 2 6 7,up left down right left left right down right
+slippery_random,True,random,33,33038,4,0.0,hole,0 1 2 6 5,down up left up
+slippery_random,True,random,33,33039,13,0.0,hole,0 1 2 1 2 6 2 2 6 10 9 13 13 12,down down down right left left up right right up left right up
+slippery_random,True,random,33,33040,3,0.0,hole,0 4 8 12,down down left
+slippery_random,True,random,33,33041,17,0.0,hole,0 0 0 0 4 8 4 0 0 0 0 4 8 9 13 9 8 12,up down left down left up right left up left right down right down up down right
+slippery_random,True,random,33,33042,2,0.0,hole,0 1 5,right left
+slippery_random,True,random,33,33043,3,0.0,hole,0 0 1 5,down up left
+slippery_random,True,random,33,33044,16,0.0,hole,0 4 0 0 0 1 0 4 0 0 0 0 4 0 1 1 5,left left left up right left left right right right left down right up right right
+slippery_random,True,random,33,33045,5,0.0,hole,0 0 0 0 1 5,up up down down right
+slippery_random,True,random,33,33046,2,0.0,hole,0 1 5,right down
+slippery_random,True,random,33,33047,4,0.0,hole,0 4 8 9 5,right right right left
+slippery_random,True,random,33,33048,4,0.0,hole,0 0 0 1 5,up left down left
+slippery_random,True,random,33,33049,7,0.0,hole,0 4 0 0 0 0 4 5,right right up left left right up
+slippery_fixed,True,fixed,11,11000,8,0.0,hole,0 1 1 1 1 0 4 4 5,down left left left left down down down
+slippery_fixed,True,fixed,11,11001,2,0.0,hole,0 4 5,down down
+slippery_fixed,True,fixed,11,11002,4,0.0,hole,0 0 4 4 5,down down down down
+slippery_fixed,True,fixed,11,11003,4,0.0,hole,0 0 1 1 5,down down left left
+slippery_fixed,True,fixed,11,11004,6,0.0,hole,0 0 1 1 1 1 5,down down left left left left
+slippery_fixed,True,fixed,11,11005,4,0.0,hole,0 0 0 4 5,down down down down
+slippery_fixed,True,fixed,11,11006,8,0.0,hole,0 1 1 0 4 4 4 8 12,down left left down down down down right
+slippery_fixed,True,fixed,11,11007,3,0.0,hole,0 4 8 12,down down right
+slippery_fixed,True,fixed,11,11008,4,0.0,hole,0 0 4 4 5,down down down down
+slippery_fixed,True,fixed,11,11009,4,0.0,hole,0 0 4 8 12,down down down right
+slippery_fixed,True,fixed,11,11010,3,0.0,hole,0 0 4 5,down down down
+slippery_fixed,True,fixed,11,11011,12,0.0,hole,0 1 0 0 1 1 0 0 1 1 0 1 5,down left down down left left down down left left down left
+slippery_fixed,True,fixed,11,11012,9,0.0,hole,0 0 0 0 0 4 8 9 8 12,down down down down down down right down right
+slippery_fixed,True,fixed,11,11013,6,0.0,hole,0 0 4 4 4 4 5,down down down down down down
+slippery_fixed,True,fixed,11,11014,6,0.0,hole,0 4 8 9 8 4 5,down down right down right down
+slippery_fixed,True,fixed,11,11015,2,0.0,hole,0 4 5,down down
+slippery_fixed,True,fixed,11,11016,6,0.0,hole,0 0 4 8 9 8 12,down down down right down right
+slippery_fixed,True,fixed,11,11017,2,0.0,hole,0 4 5,down down
+slippery_fixed,True,fixed,11,11018,2,0.0,hole,0 4 5,down down
+slippery_fixed,True,fixed,11,11019,3,0.0,hole,0 0 1 5,down down left
+slippery_fixed,True,fixed,11,11020,14,1.0,goal,0 4 4 8 9 13 13 9 10 9 10 14 10 14 15,down down down right down right right down down down down right down right
+slippery_fixed,True,fixed,11,11021,4,0.0,hole,0 1 1 1 5,down left left left
+slippery_fixed,True,fixed,11,11022,5,0.0,hole,0 4 8 4 8 12,down down right down right
+slippery_fixed,True,fixed,11,11023,4,0.0,hole,0 4 8 4 5,down down right down
+slippery_fixed,True,fixed,11,11024,12,0.0,hole,0 1 1 1 1 0 0 0 0 0 4 8 12,down left left left left down down down down down down right
+slippery_fixed,True,fixed,11,11025,3,0.0,hole,0 4 4 5,down down down
+slippery_fixed,True,fixed,11,11026,6,0.0,hole,0 1 0 0 0 1 5,down left down down down left
+slippery_fixed,True,fixed,11,11027,5,0.0,hole,0 4 4 8 4 5,down down down right down
+slippery_fixed,True,fixed,11,11028,2,0.0,hole,0 1 5,down left
+slippery_fixed,True,fixed,11,11029,2,0.0,hole,0 4 5,down down
+slippery_fixed,True,fixed,11,11030,2,0.0,hole,0 1 5,down left
+slippery_fixed,True,fixed,11,11031,2,0.0,hole,0 4 5,down down
+slippery_fixed,True,fixed,11,11032,4,0.0,hole,0 4 8 4 5,down down right down
+slippery_fixed,True,fixed,11,11033,12,0.0,hole,0 1 0 0 4 4 4 8 4 4 8 4 5,down left down down down down down right down down right down
+slippery_fixed,True,fixed,11,11034,8,0.0,hole,0 4 4 8 4 8 9 10 11,down down down right down right down down
+slippery_fixed,True,fixed,11,11035,5,0.0,hole,0 4 4 8 4 5,down down down right down
+slippery_fixed,True,fixed,11,11036,4,0.0,hole,0 0 4 8 12,down down down right
+slippery_fixed,True,fixed,11,11037,5,0.0,hole,0 0 1 0 1 5,down down left down left
+slippery_fixed,True,fixed,11,11038,2,0.0,hole,0 4 5,down down
+slippery_fixed,True,fixed,11,11039,5,0.0,hole,0 1 1 1 1 5,down left left left left
+slippery_fixed,True,fixed,11,11040,2,0.0,hole,0 1 5,down left
+slippery_fixed,True,fixed,11,11041,5,0.0,hole,0 0 0 1 1 5,down down down left left
+slippery_fixed,True,fixed,11,11042,5,0.0,hole,0 0 1 0 4 5,down down left down down
+slippery_fixed,True,fixed,11,11043,5,0.0,hole,0 0 1 0 4 5,down down left down down
+slippery_fixed,True,fixed,11,11044,14,0.0,hole,0 1 1 0 0 4 4 4 4 8 9 8 4 4 5,down left left down down down down down down right down right down down
+slippery_fixed,True,fixed,11,11045,6,0.0,hole,0 4 4 8 9 8 12,down down down right down right
+slippery_fixed,True,fixed,11,11046,3,0.0,hole,0 1 1 5,down left left
+slippery_fixed,True,fixed,11,11047,7,0.0,hole,0 0 0 0 0 4 4 5,down down down down down down down
+slippery_fixed,True,fixed,11,11048,3,0.0,hole,0 4 4 5,down down down
+slippery_fixed,True,fixed,11,11049,7,0.0,hole,0 0 0 0 4 8 4 5,down down down down down right down
+slippery_fixed,True,fixed,22,22000,4,0.0,hole,0 0 0 1 5,down down down left
+slippery_fixed,True,fixed,22,22001,3,0.0,hole,0 0 4 5,down down down
+slippery_fixed,True,fixed,22,22002,15,0.0,hole,0 4 4 8 9 8 9 13 13 14 14 10 9 8 4 5,down down down right down right down right right right right down down right down
+slippery_fixed,True,fixed,22,22003,2,0.0,hole,0 1 5,down left
+slippery_fixed,True,fixed,22,22004,8,0.0,hole,0 0 1 0 0 4 4 8 12,down down left down down down down right
+slippery_fixed,True,fixed,22,22005,3,0.0,hole,0 1 1 5,down left left
+slippery_fixed,True,fixed,22,22006,12,0.0,hole,0 0 1 0 4 4 8 4 4 8 4 4 5,down down left down down down right down down right down down
+slippery_fixed,True,fixed,22,22007,4,0.0,hole,0 1 0 1 5,down left down left
+slippery_fixed,True,fixed,22,22008,8,0.0,hole,0 1 1 1 1 1 1 1 5,down left left left left left left left
+slippery_fixed,True,fixed,22,22009,4,0.0,hole,0 4 4 8 12,down down down right
+slippery_fixed,True,fixed,22,22010,3,0.0,hole,0 0 1 5,down down left
+slippery_fixed,True,fixed,22,22011,3,0.0,hole,0 0 1 5,down down left
+slippery_fixed,True,fixed,22,22012,7,0.0,hole,0 0 1 0 1 1 1 5,down down left down left left left
+slippery_fixed,True,fixed,22,22013,3,0.0,hole,0 4 4 5,down down down
+slippery_fixed,True,fixed,22,22014,9,0.0,hole,0 1 0 0 1 0 4 4 8 12,down left down down left down down down right
+slippery_fixed,True,fixed,22,22015,4,0.0,hole,0 0 0 4 5,down down down down
+slippery_fixed,True,fixed,22,22016,2,0.0,hole,0 4 5,down down
+slippery_fixed,True,fixed,22,22017,4,0.0,hole,0 0 0 1 5,down down down left
+slippery_fixed,True,fixed,22,22018,2,0.0,hole,0 4 5,down down
+slippery_fixed,True,fixed,22,22019,3,0.0,hole,0 4 8 12,down down right
+slippery_fixed,True,fixed,22,22020,9,0.0,hole,0 0 1 0 1 0 0 0 1 5,down down left down left down down down left
+slippery_fixed,True,fixed,22,22021,4,0.0,hole,0 0 0 1 5,down down down left
+slippery_fixed,True,fixed,22,22022,6,0.0,hole,0 0 0 1 1 1 5,down down down left left left
+slippery_fixed,True,fixed,22,22023,4,0.0,hole,0 4 4 8 12,down down down right
+slippery_fixed,True,fixed,22,22024,2,0.0,hole,0 1 5,down left
+slippery_fixed,True,fixed,22,22025,7,0.0,hole,0 4 4 4 4 4 8 12,down down down down down down right
+slippery_fixed,True,fixed,22,22026,2,0.0,hole,0 1 5,down left
+slippery_fixed,True,fixed,22,22027,2,0.0,hole,0 1 5,down left
+slippery_fixed,True,fixed,22,22028,13,0.0,hole,0 0 0 0 1 1 0 0 1 0 4 4 8 12,down down down down left left down down left down down down right
+slippery_fixed,True,fixed,22,22029,10,1.0,goal,0 4 8 4 4 8 9 10 14 14 15,down down right down down right down down right right
+slippery_fixed,True,fixed,22,22030,2,0.0,hole,0 4 5,down down
+slippery_fixed,True,fixed,22,22031,10,0.0,hole,0 0 0 0 0 4 8 4 4 4 5,down down down down down down right down down down
+slippery_fixed,True,fixed,22,22032,7,0.0,hole,0 0 4 8 9 8 4 5,down down down right down right down
+slippery_fixed,True,fixed,22,22033,3,0.0,hole,0 4 8 12,down down right
+slippery_fixed,True,fixed,22,22034,3,0.0,hole,0 0 4 5,down down down
+slippery_fixed,True,fixed,22,22035,8,0.0,hole,0 1 1 1 1 0 0 1 5,down left left left left down down left
+slippery_fixed,True,fixed,22,22036,3,0.0,hole,0 0 1 5,down down left
+slippery_fixed,True,fixed,22,22037,2,0.0,hole,0 1 5,down left
+slippery_fixed,True,fixed,22,22038,3,0.0,hole,0 0 1 5,down down left
+slippery_fixed,True,fixed,22,22039,7,0.0,hole,0 0 1 1 1 0 4 5,down down left left left down down
+slippery_fixed,True,fixed,22,22040,7,0.0,hole,0 4 4 4 8 4 8 12,down down down down right down right
+slippery_fixed,True,fixed,22,22041,2,0.0,hole,0 4 5,down down
+slippery_fixed,True,fixed,22,22042,4,0.0,hole,0 4 8 4 5,down down right down
+slippery_fixed,True,fixed,22,22043,12,0.0,hole,0 1 0 4 8 4 4 8 9 13 14 10 11,down left down down right down down right down right right down
+slippery_fixed,True,fixed,22,22044,2,0.0,hole,0 1 5,down left
+slippery_fixed,True,fixed,22,22045,23,0.0,hole,0 1 0 4 4 8 9 8 4 4 8 9 10 9 8 9 10 9 8 4 4 4 8 12,down left down down down right down right down down right down down down right down down down right down down down right
+slippery_fixed,True,fixed,22,22046,23,1.0,goal,0 4 4 4 8 9 10 14 14 10 9 13 9 10 9 13 9 13 13 9 13 13 14 15,down down down down right down down right right down down right down down down right down right right down right right right
+slippery_fixed,True,fixed,22,22047,5,0.0,hole,0 4 4 4 8 12,down down down down right
+slippery_fixed,True,fixed,22,22048,10,0.0,hole,0 0 0 1 0 0 0 1 0 4 5,down down down left down down down left down down
+slippery_fixed,True,fixed,22,22049,2,0.0,hole,0 1 5,down left
+slippery_fixed,True,fixed,33,33000,2,0.0,hole,0 4 5,down down
+slippery_fixed,True,fixed,33,33001,6,0.0,hole,0 0 4 4 4 8 12,down down down down down right
+slippery_fixed,True,fixed,33,33002,3,0.0,hole,0 0 1 5,down down left
+slippery_fixed,True,fixed,33,33003,4,0.0,hole,0 4 8 4 5,down down right down
+slippery_fixed,True,fixed,33,33004,2,0.0,hole,0 4 5,down down
+slippery_fixed,True,fixed,33,33005,4,0.0,hole,0 1 1 1 5,down left left left
+slippery_fixed,True,fixed,33,33006,5,0.0,hole,0 4 8 9 10 11,down down right down down
+slippery_fixed,True,fixed,33,33007,3,0.0,hole,0 0 4 5,down down down
+slippery_fixed,True,fixed,33,33008,4,0.0,hole,0 0 4 8 12,down down down right
+slippery_fixed,True,fixed,33,33009,2,0.0,hole,0 4 5,down down
+slippery_fixed,True,fixed,33,33010,6,0.0,hole,0 0 4 4 8 4 5,down down down down right down
+slippery_fixed,True,fixed,33,33011,10,0.0,hole,0 0 1 1 0 0 0 1 0 1 5,down down left left down down down left down left
+slippery_fixed,True,fixed,33,33012,4,0.0,hole,0 0 4 4 5,down down down down
+slippery_fixed,True,fixed,33,33013,2,0.0,hole,0 1 5,down left
+slippery_fixed,True,fixed,33,33014,7,0.0,hole,0 0 0 0 0 1 1 5,down down down down down left left
+slippery_fixed,True,fixed,33,33015,10,0.0,hole,0 4 8 9 10 9 10 14 14 10 11,down down right down down down down right right down
+slippery_fixed,True,fixed,33,33016,3,0.0,hole,0 1 1 5,down left left
+slippery_fixed,True,fixed,33,33017,4,0.0,hole,0 0 4 4 5,down down down down
+slippery_fixed,True,fixed,33,33018,10,0.0,hole,0 0 0 0 4 4 8 4 8 4 5,down down down down down down right down right down
+slippery_fixed,True,fixed,33,33019,2,0.0,hole,0 4 5,down down
+slippery_fixed,True,fixed,33,33020,5,0.0,hole,0 0 1 0 4 5,down down left down down
+slippery_fixed,True,fixed,33,33021,16,0.0,hole,0 1 1 1 1 0 0 0 0 1 0 1 1 0 4 4 5,down left left left left down down down down left down left left down down down
+slippery_fixed,True,fixed,33,33022,5,0.0,hole,0 1 1 1 1 5,down left left left left
+slippery_fixed,True,fixed,33,33023,3,0.0,hole,0 4 8 12,down down right
+slippery_fixed,True,fixed,33,33024,4,0.0,hole,0 4 8 4 5,down down right down
+slippery_fixed,True,fixed,33,33025,6,0.0,hole,0 0 0 4 8 4 5,down down down down right down
+slippery_fixed,True,fixed,33,33026,2,0.0,hole,0 4 5,down down
+slippery_fixed,True,fixed,33,33027,8,0.0,hole,0 0 1 0 1 1 0 1 5,down down left down left left down left
+slippery_fixed,True,fixed,33,33028,2,0.0,hole,0 4 5,down down
+slippery_fixed,True,fixed,33,33029,4,0.0,hole,0 0 0 4 5,down down down down
+slippery_fixed,True,fixed,33,33030,3,0.0,hole,0 1 1 5,down left left
+slippery_fixed,True,fixed,33,33031,14,0.0,hole,0 1 1 1 1 1 1 0 0 0 1 0 4 8 12,down left left left left left left down down down left down down right
+slippery_fixed,True,fixed,33,33032,4,0.0,hole,0 0 4 8 12,down down down right
+slippery_fixed,True,fixed,33,33033,9,0.0,hole,0 4 4 8 4 4 8 4 4 5,down down down right down down right down down
+slippery_fixed,True,fixed,33,33034,3,0.0,hole,0 0 1 5,down down left
+slippery_fixed,True,fixed,33,33035,3,0.0,hole,0 4 4 5,down down down
+slippery_fixed,True,fixed,33,33036,5,0.0,hole,0 0 1 0 1 5,down down left down left
+slippery_fixed,True,fixed,33,33037,7,0.0,hole,0 0 0 1 0 4 4 5,down down down left down down down
+slippery_fixed,True,fixed,33,33038,3,0.0,hole,0 1 1 5,down left left
+slippery_fixed,True,fixed,33,33039,2,0.0,hole,0 1 5,down left
+slippery_fixed,True,fixed,33,33040,5,0.0,hole,0 4 8 4 8 12,down down right down right
+slippery_fixed,True,fixed,33,33041,15,1.0,goal,0 4 4 8 9 10 14 10 9 10 9 8 9 13 14 15,down down down right down down right down down down down right down right right
+slippery_fixed,True,fixed,33,33042,2,0.0,hole,0 4 5,down down
+slippery_fixed,True,fixed,33,33043,4,0.0,hole,0 0 0 1 5,down down down left
+slippery_fixed,True,fixed,33,33044,8,0.0,hole,0 1 1 1 0 4 8 4 5,down left left left down down right down
+slippery_fixed,True,fixed,33,33045,3,0.0,hole,0 4 8 12,down down right
+slippery_fixed,True,fixed,33,33046,7,0.0,hole,0 4 8 9 13 9 8 12,down down right down right down right
+slippery_fixed,True,fixed,33,33047,6,0.0,hole,0 0 0 4 4 8 12,down down down down down right
+slippery_fixed,True,fixed,33,33048,3,0.0,hole,0 1 1 5,down left left
+slippery_fixed,True,fixed,33,33049,3,0.0,hole,0 0 1 5,down down left

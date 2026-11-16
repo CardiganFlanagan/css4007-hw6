@@ -1,0 +1,27 @@
+(1,1) '.' up (off map): p=1.0->(1,1) r=-1
+[PASS] moving off the map stays in place and pays the floor reward -1
+(1,2) 'M' down (into wall #): p=1.0->(1,2) r=-3
+[PASS] bumping into the wall from mud stays on mud and pays mud reward -3
+[PASS] wall (2,2) is not a state
+(2,3) 'I' up: p=0.8->(1,3) r=-1, p=0.1->(2,3) r=-1, p=0.1->(2,4) r=-10
+[PASS] ice 'up' probabilities sum to 1
+(2,3) 'I' right: p=0.8->(2,4) r=-10, p=0.1->(1,3) r=-1, p=0.1->(3,3) r=-1
+[PASS] ice 'right' probabilities sum to 1
+(2,3) 'I' down: p=0.8->(3,3) r=-1, p=0.1->(2,3) r=-1, p=0.1->(2,4) r=-10
+[PASS] ice 'down' probabilities sum to 1
+(2,3) 'I' left: p=0.8->(2,3) r=-1, p=0.1->(1,3) r=-1, p=0.1->(3,3) r=-1
+[PASS] ice 'left' probabilities sum to 1
+[PASS] ice 'left' slip into wall merges with intended stay: stay p=0.8, up 0.1, down 0.1
+[PASS] entering mud (1,2) from (1,1) pays -3
+[PASS] entering sand (3,2) from S pays -2
+[PASS] entering water (3,4) from (3,3) pays -5
+[PASS] bumping off the map from water stays on water and pays -5
+[PASS] moves from sand are deterministic
+[PASS] moves from water are deterministic
+[PASS] entering G from (1,3) pays exactly +10
+[PASS] water (3,4) up into H pays -10
+[PASS] terminal (1,4) self-loops with reward 0 for every action
+[PASS] terminal (2,4) self-loops with reward 0 for every action
+[PASS] terminal values stay 0 after value iteration
+Sampled 100000 ice 'up' moves with the simulator: (1,3): 0.802, (2,3): 0.099, (2,4): 0.099
+[PASS] simulator ice frequencies within 0.01 of 0.8/0.1/0.1

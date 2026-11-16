@@ -1,0 +1,85 @@
+condition=not_slippery_random batch_seed=22 episode_seed=22042 outcome=goal steps=11 total_reward=1.0
+@ marks the agent; the line in brackets is the action just taken.
+
+t=0 state=0
+@FFF
+FHFH
+FFFH
+HFFG
+
+t=1 state=0
+  (Left)
+@FFF
+FHFH
+FFFH
+HFFG
+
+t=2 state=0
+  (Left)
+@FFF
+FHFH
+FFFH
+HFFG
+
+t=3 state=4
+  (Down)
+SFFF
+@HFH
+FFFH
+HFFG
+
+t=4 state=8
+  (Down)
+SFFF
+FHFH
+@FFH
+HFFG
+
+t=5 state=8
+  (Left)
+SFFF
+FHFH
+@FFH
+HFFG
+
+t=6 state=9
+  (Right)
+SFFF
+FHFH
+F@FH
+HFFG
+
+t=7 state=10
+  (Right)
+SFFF
+FHFH
+FF@H
+HFFG
+
+t=8 state=14
+  (Down)
+SFFF
+FHFH
+FFFH
+HF@G
+
+t=9 state=13
+  (Left)
+SFFF
+FHFH
+FFFH
+H@FG
+
+t=10 state=14
+  (Right)
+SFFF
+FHFH
+FFFH
+HF@G
+
+t=11 state=15
+  (Right)
+SFFF
+FHFH
+FFFH
+HFF@
